@@ -15,7 +15,7 @@ function App() {
       }
     }
      
- 
+ //
 
   const removValue = () =>{
     if(counter > 0){
